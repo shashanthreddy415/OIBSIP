@@ -1,0 +1,34 @@
+customer_id,customer_name,gender,age,purchase_date,purchase_amount,city,payment_method
+C001,Alice,F,24,2025-01-05,1250.50,Hyderabad,Credit Card
+C002,Bob,male,31,05/01/2025,890,hyderabad ,UPI
+C003,Charlie,M,45,2025/01/07,"₹1,450",Bangalore,Cash
+C004,Diana,Female,,Jan 08 2025,2100.00,Bengaluru,upi
+C005,Ethan,m,29,2025-01-09,750.25,Chennai,Credit Card
+C006,Farah,Female,36,10-01-2025,"1,250",chennai,
+C007,George,Male,41,2025-01-11,980.75,Hyderabad,UPI
+C008,Hannah,F,27,12/01/2025,500,Mumbai,Cash
+C009,Ian,Male,33,2025-01-13,,Mumbai ,credit card
+C010,Julia,female,30,14/01/2025,1750.00,Delhi,UPI
+C011,Kevin,M,999,2025-01-15,1200,Delhi,Cash
+C012,Laura,Female,26,16-01-2025,-450,Pune,UPI
+C013,Mike,male,39,2025/01/17,2300,Pune,Credit Card
+C014,Nina,,28,"Jan 18, 2025",670.50,Mumbai,Cash
+C015,Oscar,M,34,2025-01-19,"1,050",Hyderabad,UPI
+C016,Priya,Female,25,20/01/2025,890.00,Bangalore,Credit Card
+C017,Quinn,Male,43,2025-01-21,15000,Bengaluru,UPI
+C018,Riya,female,32,22-01-2025,999.99,Chennai,Cash
+C019,Sam,M,,2025/01/23,810,chennai ,UPI
+C020,Tara,Female,29,24/01/2025,720.00,Delhi,Credit Card
+C021,Uma,F,37,2025-01-25,1100,Pune,cash
+C022,Victor,Male,48,26-01-2025,950.30,Mumbai,UPI
+C023,Wendy,female,22,2025-01-27,600,Delhi,Credit Card
+C024,Xavier,M,35,28/01/2025,1250.00,Hyderabad,UPI
+C025,Yasmin,Female,31,2025/01/29,980,Bangalore,Cash
+C026,Zach,male,40,30-01-2025,1300,Bengaluru,Credit Card
+C027,Aarav,M,52,2025-01-31,875.80,Hyderabad,UPI
+C028,Bhavna,Female,27,01/02/2025,1020,Mumbai,Cash
+C029,Chris,Male,38,2025-02-02,"1,450.00",Pune,UPI
+C030,Deepa,female,44,03-02-2025,760,Chennai,Credit Card
+C005,Ethan,m,29,2025-01-09,750.25,Chennai,Credit Card
+C031,Elena,FEMALE,thirty,2025-02-04,"1,100",Hyderabad,UPI
+C032,Frank,M,26,2025-02-05,$850.50,Bangalore,Cash
